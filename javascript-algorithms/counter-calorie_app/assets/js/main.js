@@ -97,7 +97,7 @@ function calculateCalories(e) {
   <hr>
   <p>${budgetCalories} Calories Budgeted</p>
   <p>${consumedCalories} Calories Consumed</p>
-  <p>${exerciseCalories} Ca;ories Burned</p>
+  <p>${exerciseCalories} Calories Burned</p>
   `;
   // display hidden remove
   output.classList.remove("hide");
